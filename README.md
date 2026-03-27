@@ -11,7 +11,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 - Conversion Rate: 33%  
 - Close Rate: 58%  
 
-## 📸 1. Pipeline Health & Lead Distribution
+## 1. Pipeline Health & Lead Distribution
 
 ![Pipeline Health](pipline_health.jpg)
 
@@ -44,7 +44,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
   
 ---  
 
-## 📸 2. Lost Opportunity Analysis
+## 2. Lost Opportunity Analysis
 
 ![Lost Opportunity](lost_opportunity.jpg)
 
@@ -52,7 +52,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 - Why are we losing deals? Which factors (industry, product, or geography) contribute most to failure?  
 - What common characteristics can be observed among lost opportunities?
 
-### 🔍 Insights
+### Insights
 
 - Lost rate does not vary significantly across **countries and product types**, suggesting these are not the primary drivers of deal failure  
 → Focus less on geographic or product segmentation and prioritize other factors  
@@ -63,7 +63,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 - The current sales approach is too **generic**, while certain industries require tailored strategies  
 → Shift from a one-size-fits-all model to **industry-specific sales approaches**  
 
-## 📸 3. Sales Performance & Forecast
+## 3. Sales Performance & Forecast
 
 ![Forecast](_forecasting.jpg)
 
@@ -71,7 +71,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 - What is the expected revenue from the current pipeline over the next 3–5 months?  
 - Are sales overly optimistic about expected close dates?
 
-### 🔍 Insights
+### Insights
 
 - The expected revenue from the current pipeline is approximately **$244K over the next 3–5 months**, based on open deals and historical win rate  
 - Projected revenue shows a **declining trend over time**, indicating that most value is concentrated in the near term and pipeline depth may be limited  
