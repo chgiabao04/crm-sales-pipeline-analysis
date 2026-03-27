@@ -13,7 +13,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 
 ## 1. Pipeline Health & Lead Distribution
 
-![Pipeline Health](Dashboard Pipeline Health.pdf)
+![Pipeline Health](Dashboard_Pipeline_Health.pdf)
 
 ### Key Questions
 - What is the overall conversion rate from Lead to Customer?
@@ -46,7 +46,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 
 ## 2. Lost Opportunity Analysis
 
-![Lost Opportunity](lost_opportunity.jpg)
+![Lost Opportunity](Dashboard_Lost_Opportunity.pdf)
 
 ### Key Questions
 - Why are we losing deals? Which factors (industry, product, or geography) contribute most to failure?  
@@ -65,7 +65,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 
 ## 3. Sales Performance & Forecast
 
-![Forecast](forecasting.jpg)
+![Forecast](Dashboard_Forecasting.pdf)
 
 ### Key Questions
 - What is the expected revenue from the current pipeline over the next 3–5 months?  
