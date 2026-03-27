@@ -56,7 +56,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 
 - Lost rate does not vary significantly across **countries and product types**, suggesting these are not the primary drivers of deal failure  
 → Focus less on geographic or product segmentation and prioritize other factors  
-- Industries such as **Agriculture & Mining and Construction (~70–80%)** show significantly higher lost rates  
+- Industries such as **Agriculture & Mining (~70–80%)** show significantly higher lost rates  
 → Reassess targeting and positioning in these industries  
 - This indicates a **product-market fit issue**, where the solution is not well aligned with industry-specific needs  
 → Adapt product offering and value proposition to better match industry requirements  
