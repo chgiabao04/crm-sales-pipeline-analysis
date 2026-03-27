@@ -46,7 +46,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 
 ## 📸 2. Lost Opportunity Analysis
 
-![Lost Opportunity](lost_opportunity.png)
+![Lost Opportunity](lost_opportunity.jpg)
 
 ### Key Questions
 - Why are we losing deals? Which factors (industry, product, or geography) contribute most to failure?  
@@ -65,7 +65,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 
 ## 📸 3. Sales Performance & Forecast
 
-![Forecast](_forecasting.png)
+![Forecast](_forecasting.jpg)
 
 ### Key Questions
 - What is the expected revenue from the current pipeline over the next 3–5 months?  
