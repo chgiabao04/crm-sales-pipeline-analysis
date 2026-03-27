@@ -13,7 +13,7 @@ This project analyzes CRM data to evaluate sales pipeline performance and identi
 
 ## 1. Pipeline Health & Lead Distribution
 
-![Pipeline Health](pipline_health.jpg)
+![Pipeline Health](Dashboard Pipeline Health.pdf)
 
 ### Key Questions
 - What is the overall conversion rate from Lead to Customer?
